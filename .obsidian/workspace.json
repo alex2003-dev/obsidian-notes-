@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/pc, hardware, software, oc.md"
+                "file": "Code/Bash scripting tutorial begginers and git, github.md"
               },
               "icon": "excalidraw-icon",
-              "title": "pc, hardware, software, oc"
+              "title": "Bash scripting tutorial begginers and git, github"
             }
           },
           {
@@ -57,8 +57,7 @@
               "title": "примечания к выпуску 1.9.12"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,15 +201,15 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "41ea2e755d3150d0",
+  "active": "6e81226827e740d2",
   "lastOpenFiles": [
+    "Excalidraw/pc, hardware, software, oc.md",
     "Code/Без названия.md",
-    "Code/Bash scripting tutorial begginers.md",
+    "Code/Bash scripting tutorial begginers and git, github.md",
     "Excalidraw/Без названия.md",
     "Projects/project.md",
     "Без названия.md",
     "Code",
-    "Excalidraw/pc, hardware, software, oc.md",
     "Excalidraw/remembering grinde map 2.md",
     "pc/Computer System Architecture.canvas",
     "pc/Register name.png",
