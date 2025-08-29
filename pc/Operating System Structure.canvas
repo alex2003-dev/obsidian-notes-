@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2e41daa2ca53ff23","type":"text","text":"Multiprogramming ","x":-417,"y":-167,"width":217,"height":60},
+		{"id":"3de21fdc92af5f06","type":"text","text":"Time sharing (Multitasking)","x":-417,"y":-40,"width":177,"height":60},
+		{"id":"5e7cfcce1b977da4","type":"text","text":"things that every operating system should be able to do. ","x":-780,"y":-137,"width":250,"height":97}
+	],
+	"edges":[
+		{"id":"d4f9359311026397","fromNode":"5e7cfcce1b977da4","fromSide":"right","toNode":"2e41daa2ca53ff23","toSide":"left"},
+		{"id":"4a4d283c5b4b3720","fromNode":"5e7cfcce1b977da4","fromSide":"right","toNode":"3de21fdc92af5f06","toSide":"left"}
+	]
+}
